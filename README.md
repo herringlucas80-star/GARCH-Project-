@@ -13,4 +13,4 @@ https://docs.google.com/document/d/1_yQaPrERGfwz6c2BEDO3PWw_a4_2y8Dds9R8g-VsWAg/
 # Technologies Currently Using
 Python (Pandas, NumPy, yFinance, Plotly, Matplotlib, Arch) 
 # Installation 
-
+git clone https://github.com/herringlucas80-star/GARCH-Project-.git cd GARCH-Project- 

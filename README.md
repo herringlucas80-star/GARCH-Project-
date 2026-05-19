@@ -1,5 +1,5 @@
 # Overview
-Currently conducting a GARCH; ML Regression research comparision to see if volatility behavior can be described as a linear phenonmon or not. Purpose of the culmination of this research is to offer investors knowledge not on future price but on distribution of returns. 
+Currently conducting a GARCH; ML Regression research comparision to see if volatility behavior can be described as a linear phenonmon or not. Purpose of the culmination of this research is to offer investors knowledge not on future price but on the dynamics of the second movement of returns. 
 # Features 
 Feature 1: Base Garch (1,1) Model and its associated base plots on volatility persistance and clustering behavior
 
